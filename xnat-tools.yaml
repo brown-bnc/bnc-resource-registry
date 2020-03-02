@@ -1,0 +1,4 @@
+repo: https://github.com/brown-bnc/xnat-tools
+name: xnat-tools
+category: Software
+description: "BNC Tools for accessing and processing data from XNAT."
