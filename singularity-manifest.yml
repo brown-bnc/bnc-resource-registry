@@ -1,0 +1,6 @@
+---
+docker:
+- bids/validator
+- brownbnc/xnat-tools
+- poldracklab/fmriprep
+- poldracklab/mriqc
