@@ -4,3 +4,5 @@ docker:
 - brownbnc/xnat-tools
 - poldracklab/fmriprep
 - poldracklab/mriqc
+- nipreps/dmriprep
+- halfpipe/halfpipe
