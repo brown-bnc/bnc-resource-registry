@@ -2,7 +2,7 @@
 docker:
 - bids/validator
 - brownbnc/xnat-tools
-- poldracklab/fmriprep
+- nipreps/fmriprep
 - poldracklab/mriqc
 - nipreps/dmriprep
 - halfpipe/halfpipe
