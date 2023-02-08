@@ -6,3 +6,4 @@ docker:
 - nipreps/mriqc
 - nipreps/dmriprep
 - halfpipe/halfpipe
+- pennlinc/aslprep
