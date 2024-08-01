@@ -7,3 +7,4 @@ docker:
 - nipreps/dmriprep
 - halfpipe/halfpipe
 - pennlinc/aslprep
+- dcm4che/dcm4che-tools
