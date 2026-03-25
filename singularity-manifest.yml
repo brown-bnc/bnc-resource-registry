@@ -1,6 +1,5 @@
 ---
 docker:
-- bids/validator
 - brownbnc/xnat-tools
 - nipreps/fmriprep
 - nipreps/mriqc
